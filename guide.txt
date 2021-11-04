@@ -1,0 +1,482 @@
+What is Node (2:59)
+
+Node Architecture (3:01)
+
+How Node Works (4:23)
+
+Installing Node (2:31)
+
+Your First Node Program (2:19)
+
+Course Structure (2:13)
+
+Recap
+
+Follow Me Around
+
+Node Module System (00:58)
+
+Introduction (0:28)
+
+Global Object (3:21)
+
+Modules (3:35)
+
+Creating a Module (4:43)
+
+Loading a Module (5:22)
+
+Module Wrapper Function (4:40)
+
+Path Module (4:08)
+
+OS Module (4:17)
+
+File System Module (4:50)
+
+Events Module (6:17)
+
+Event Arguments (3:08)
+
+Extending EventEmitter (8:01)
+
+HTTP Module (7:24)
+
+Node Core Recap
+
+
+
+
+Node Package Manager (NPM) (00:48)
+
+Introduction (3:41)
+
+Package.json (2:54)
+
+Installing a Node Package (3:33)
+
+Using a Package (3:20)
+
+Package Dependencies (3:18)
+
+NPM Packages and Source Control (3:51)
+
+Semantic Versioning (4:29)
+
+Listing the Installed Packages (2:10)
+
+Viewing Registry Info for a Package (2:45)
+
+Installing a Specific Version of a Package (1:05)
+
+Updating Local Packages (5:02)
+
+DevDependencies (1:51)
+
+Uninstalling a Package (0:40)
+
+Working with Global Packages (2:32)
+
+Publishing a Package (4:32)
+
+Updating a Published Package (1:55)
+
+NPM Recap
+
+Building RESTful API’s Using Express (00:56)
+
+Introduction (0:47)
+
+RESTful Services (5:57)
+
+Introducing Express (2:19)
+
+Building Your First Web Server (5:45)
+
+Nodemon (1:30)
+
+Environment Variables (3:13)
+
+Route Parameters (3:22)
+
+Handling HTTP GET Requests (4:45)
+
+Handling HTTP POST Requests (3:42)
+
+Calling Endpoints Using Postman (2:07)
+
+Input Validation (7:58)
+
+Handling HTTP PUT Requests (8:30)
+
+Handling HTTP Delete Requests (4:44)
+
+Project- Build the Genres API (1:18)
+
+Building RESTful APIs with Express Recap
+
+A Quick Note
+
+Express- Advanced Topics (00:55)
+
+1- Introduction (0:22)
+
+2- Middleware (2:48)
+
+3- Creating Custom Middleware (4:23)
+
+4- Built-in Middleware (3:57)
+
+5- Third-party Middleware (3:55)
+
+6- Environments (4:05)
+
+7- Configuration (9:45)
+
+8- Debugging (6:54)
+
+9- Templating Engines (4:55)
+
+10- Database Integration (1:36)
+
+11- Authentication (0:29)
+
+12- Structuring Express Applications (7:44)
+
+13- Project- Restructure the App (3:05)
+
+Express- Advanced Topics Recap
+
+Asynchronous JavaScript (01:04)
+
+1- Synchronous vs Asynchronous Code (5:51)
+
+2- Patterns for Dealing with Asynchronous Code (3:07)
+
+3- Callbacks (5:59)
+
+4- Callback Hell (2:27)
+
+5- Named Functions to Rescue (4:41)
+
+6- Promises (8:37)
+
+7- Replacing Callbacks with Promises (3:31)
+
+8- Consuming Promises (5:31)
+
+9- Creating Settled Promises (2:49)
+
+10- Running Promises in Parallel (6:14)
+
+11- Async and Await (6:55)
+
+12- Exercise (5:56)
+
+CRUD Operations Using Mongoose (01:15)
+
+1- Introducing MongoDB (2:00)
+
+2- Installing MongoDB on Mac (3:58)
+
+3- Installing MongoDB on Windows (5:39)
+
+4- Connecting to MongoDB (3:52)
+
+5- Schemas (3:48)
+
+6- Models (4:18)
+
+When you pay successfully, we will check the payment status within a few business hours and add training program to the Curriculum tab of: Mosh Hamedani – The Complete Node.js Course
+
+7- Saving a Document (3:33)
+
+8- Querying Documents (4:18)
+
+9- Comparison Query Operators (4:59)
+
+10- Logical Query Operators (2:01)
+
+11- Regular Expressions (3:20)
+
+12- Counting (0:49)
+
+13- Pagination (1:36)
+
+14- Exercise 1 (7:57)
+
+15- Exercise 2 (4:34)
+
+16- Exercise 3 (3:19)
+
+17- Updating a Document- Query First (3:35)
+
+18- Updating a Document- Update First (6:14)
+
+19- Removing Documents (2:38)
+
+CRUD Operations with Mongoose and MongoDB Recap
+
+Mongo – Data Validation (00:54)
+
+1- Validation (6:59)
+
+2- Built-in Validators (4:54)
+
+3- Custom Validators (3:16)
+
+4- Async Validators (2:34)
+
+5- Validation Errors (3:37)
+
+6- SchemaType Options (5:56)
+
+7- Project- Add Persistence to Genres API (14:05)
+
+8- Project- Build the Customers API (6:59)
+
+9- Restructuring the Project (6:14)
+
+Mongoose Validation Recap
+
+Mongoose- Modeling Relationships between Connected Data (00:51)
+
+1- Modelling Relationships (7:45)
+
+2- Referencing Documents (3:51)
+
+3- Population (4:15)
+
+4- Embedding Documents (6:54)
+
+5- Using an Array of Sub-documents (4:31)
+
+6- Project- Build the Movies API (7:05)
+
+7- Project- Build the Rentals API (8:01)
+
+8- Transactions (8:45)
+
+9- ObjectID (7:03)
+
+10- Validating ObjectIDs (6:13)
+
+11- A Better Implementation (2:23)
+
+Mongoose- Modelling Relationships between Connected Data Recap
+
+Authentication and Authorization (01:13)
+
+1- Introduction (4:01)
+
+2- Creating the User Model (3:40)
+
+3- Registering Users (7:53)
+
+4- Using Lodash (5:21)
+
+5- Hashing Passwords (6:54)
+
+6- Authenticating Users (4:54)
+
+7- Testing the Authentication (2:42)
+
+8- JSON Web Tokens (5:04)
+
+9- Generating Authentication Tokens (3:18)
+
+10- Storing Secrets in Environment Variables (6:12)
+
+11- Setting Response Headers (3:46)
+
+12- Encapsulating Logic in Mongoose Models (7:11)
+
+13- Authorization Middleware (6:50)
+
+14- Protecting Routes (3:06)
+
+15- Getting the Current User (4:03)
+
+16- Logging Out Users (2:04)
+
+17- Role-based Authorization (5:43)
+
+18- Testing the Authorization (4:10)
+
+Authentication and Authorization Recap
+
+Handling and Logging Errors (01:03)
+
+1- Introduction (3:02)
+
+2- Handling Rejected Promises (3:07)
+
+3- Express Error Middleware (4:40)
+
+4- Removing Try Catch Blocks (8:29)
+
+5- Express Async Errors (3:18)
+
+6- Logging Errors (6:36)
+
+7- Logging to MongoDB (4:11)
+
+8- Uncaught Exceptions (3:35)
+
+9- Unhandled Promise Rejections (7:23)
+
+10- Error Handling Recap (2:26)
+
+11- Extracting Routes (4:54)
+
+12- Extracting the Db Logic (3:22)
+
+13- Extracting the Logging Logic (2:11)
+
+14- Extracting the Config Logic (2:30)
+
+15- Extracting the Validation Logic (1:53)
+
+16- Showing Unhandled Exceptions on the Console (1:29)
+
+17- Handling and Logging Errors Recap
+
+Unit Testing (01:15)
+
+1- What is Automated Testing (2:40)
+
+2- Benefits of Automated Testing (2:37)
+
+3- Types of Tests (4:00)
+
+4- Test Pyramid (2:55)
+
+5- Tooling (2:15)
+
+6- Writing Your First Unit Test (5:00)
+
+7- Testing Numbers (6:36)
+
+8- Grouping Tests (1:51)
+
+9- Refactoring with Confidence (2:43)
+
+10- Testing Strings (3:24)
+
+11- Testing Arrays (5:50)
+
+12- Testing Objects (5:30)
+
+13- Testing Exceptions (7:25)
+
+14- Continuously Running Tests (1:43)
+
+15- Exercise- Testing the FizzBuz (5:28)
+
+16- Creating Simple Mock Functions (5:37)
+
+17- Interaction Testing (5:00)
+
+18- Jest Mock Functions (7:16)
+
+19- What to Unit Test (3:06)
+
+20- Exercise (7:39)
+
+Unit Testing Recap
+
+Integration Testing (01:09)
+
+1- Introduction (1:09)
+
+2- Preparing the App (2:18)
+
+3- Setting Up the Test Db (3:01)
+
+4- Your First Integration Test (5:44)
+
+5- Populating the Test Db (6:17)
+
+6- Testing Routes with Parameters (3:19)
+
+7- Validating ObjectIDs (3:31)
+
+8- Refactoring with Confidence (2:04)
+
+9- Testing the Authorization (2:39)
+
+10- Testing the Invalid Inputs (5:32)
+
+11- Testing the Happy Path (2:35)
+
+12- Writing Clean Tests (8:40)
+
+13- Testing the Auth Middleware (9:45)
+
+14- Unit Testing the Auth Middleware (6:14)
+
+15- Code Coverage (7:09)
+
+16- Exercise (0:26)
+
+Integration Testing Recap
+
+Test-Driven Development (00:57)
+
+1- What is Test-driven Development (2:54)
+
+2- Implementing the Returns (2:33)
+
+3- Test Cases (2:53)
+
+4- Populating the Database (7:14)
+
+5- Testing the Authorization (7:22)
+
+6- Testing the Input (3:42)
+
+7- Refactoring Tests (4:18)
+
+8- Looking Up an Object (3:04)
+
+9- Testing if Rental Processed (2:13)
+
+10- Testing the Valid Request (2:23)
+
+11- Testing the ReturnDate (4:15)
+
+12- Testing the RentalFee (4:50)
+
+13- Testing the Movie Stock (5:37)
+
+14- Testing the Response (3:36)
+
+15- Refactoring the Validation Logic (6:44)
+
+16- Mongoose Static Methods (6:12)
+
+17- Refactoring the Domain Logic (4:04)
+
+Deployment (00:28)
+
+1- Introduction (1:21)
+
+2- Preparing the App for Production (2:28)
+
+3- Getting ed with Heroku (2:15)
+
+4- Preparing the App for Heroku (1:55)
+
+5- Adding the Code to a Git Repository (2:44)
+
+6- Deploying to Heroku (3:44)
+
+7- Viewing Logs (2:45)
+
+8- Setting Environment Variables (2:44)
+
+9- MongoDB in the Cloud (8:23)
+
+10- Wrap Up
+
+11- What to Learn Next
